@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Curso:  Sistemas de informação 2° Ano.<br>📚 Aprendizado: Sql, Python, Amazon Aws, Html, Javascript e Node.js.<br>🎯 Projetos: Site Pedidos On, um projeto solo com objetivo em desenvolver um sistema online para fastfoods.<br>🎲 Qualidades: Concentração, aprendizado rápido, observador, comunicativo e tenho foco de agregar valor.</p>
+<p align="left">📚 Curso:  Sistemas de informação.<br>🧠 Aprendizado: Sql, Python, Amazon Aws, Html, Javascript e Node.js.<br>🎲 Qualidades: Concentração, aprendizado rápido, observador, focado de agregar valor.</p>
 
 ###
 
