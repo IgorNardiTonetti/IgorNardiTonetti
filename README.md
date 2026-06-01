@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Igor, tenho 19 anos e estou no 2°ano do curso Sistemas de informação.<br><br>Procurando sempre aprender e utilizar meu conhecimento!</p>
+<p align="left">Olá! Me chamo Igor, tenho 20 anos e estou no 3°ano do curso Sistemas de informação.<br><br>Procurando sempre aprender e utilizar meu conhecimento!</p>
 
 ###
 
