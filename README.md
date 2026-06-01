@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Curso:  Sistemas de informação.<br>🧠 Aprendizado: Sql, Python, Amazon Aws, Html, Javascript e Node.js.<br>🎲 Qualidades: Concentração, aprendizado rápido, observador, focado de agregar valor.</p>
+<p align="left">📚 Curso:  Sistemas de informação.<br>🧠 Aprendizado: Sql, Python, Amazon Aws, Html, Javascript e Node.js.<br>🎲 Qualidades: Concentração, aprendizado rápido, observador, focado em agregar valor.</p>
 
 ###
 
